@@ -17,7 +17,11 @@ This repository related to step-by-step guide about Hashicorp Vault
 - [Hashicorp Vault 101–9:Step-by-Step Guide to Configuring HashiCorp Vault Auth Methods Using CLI and UI](https://devopstronaut.com/hashicorp-vault-101-9-step-by-step-guide-to-configuring-hashicorp-vault-auth-methods-using-cli-and-2a2c23597770)
 - [Hashicorp Vault 101–10:Step-by-Step Guide to Configuring Dynamic AWS Credentials Using iam_user method in HashiCorp Vault Using CLI](https://devopstronaut.com/hashicorp-vault-101-10-step-by-step-guide-to-configuring-dynamic-aws-credentials-using-iam-user-edb5a75f868a)
 - [Hashicorp Vault 101–11:Step-by-Step Guide to Configuring Dynamic AWS Credentials Using iam_user method in HashiCorp Vault Using UI](https://devopstronaut.com/-3911d6232b7e)
-- 
+- [Hashicorp Vault 101–12:Step-by-Step Guide to Configuring AWS IAM User MFA with HashiCorp Vault Integration](https://devopstronaut.com/-3dcd92884a60)
+- [Hashicorp Vault 101–13:Step-by-Step Guide to Configuring Dynamic AWS Credentials Using Assumed Role method in HashiCorp Vault](https://devopstronaut.com/-20042dae8fdd)
+- [Hashicorp Vault 101–14:Step-by-Step Guide to Configuring AWS Auth Method Using the IAM Method in Hashicorp Vault](https://devopstronaut.com/-311809d69ebc)
+- [Cheat Sheet for HashiCorp Vault Certified Associate](https://devopstronaut.com/cheat-sheet-for-hashicorp-vault-certified-associate-e8f0d60e40c8)
+
 
 # Contributions
 Feel free to submit issues or pull requests to improve these guides.
