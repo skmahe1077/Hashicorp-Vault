@@ -16,6 +16,8 @@ This repository related to step-by-step guide about Hashicorp Vault
 - [Hashicorp Vault 101–8:Vault Auto-unseal using Transit secrets engine](https://devopstronaut.com/hashicorp-vault-101-8-vault-auto-unseal-using-transit-secrets-engine-70310dd04ee0)
 - [Hashicorp Vault 101–9:Step-by-Step Guide to Configuring HashiCorp Vault Auth Methods Using CLI and UI](https://devopstronaut.com/hashicorp-vault-101-9-step-by-step-guide-to-configuring-hashicorp-vault-auth-methods-using-cli-and-2a2c23597770)
 - [Hashicorp Vault 101–10:Step-by-Step Guide to Configuring Dynamic AWS Credentials Using iam_user method in HashiCorp Vault Using CLI](https://devopstronaut.com/hashicorp-vault-101-10-step-by-step-guide-to-configuring-dynamic-aws-credentials-using-iam-user-edb5a75f868a)
+- [Hashicorp Vault 101–11:Step-by-Step Guide to Configuring Dynamic AWS Credentials Using iam_user method in HashiCorp Vault Using UI](https://devopstronaut.com/-3911d6232b7e)
+- 
 
 # Contributions
 Feel free to submit issues or pull requests to improve these guides.
